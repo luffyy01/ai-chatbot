@@ -1,6 +1,11 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+#view:https://ai-chatbot-rouge-six-65.vercel.app/ 
+
+
 ## Getting Started
+
+
 
 First, run the development server:
 
